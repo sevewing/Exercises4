@@ -57,7 +57,6 @@ class CashRegister {
     void printReceipt(String barcodeFilename) {
         List<String> bar = null;
         try {
-            //
             bar = Files.readAllLines(Paths.get(barcodeFilename));
             orderDataStructure(bar);
             printBody();
