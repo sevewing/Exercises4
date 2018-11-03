@@ -1,11 +1,11 @@
 public class Commodity {
-     String barcode;
-     String category;
-     String name;
-     int limit;
-     int number;
-     String priceReal;
-     String priceDisconut;
+    public String barcode;
+    public String category;
+    public String name;
+    public int limit;
+    public int number;
+    public String priceReal;
+    public String priceDisconut;
 
     public Commodity(String barcode, String category, String name, String priceReal) {
         this.barcode = barcode;
