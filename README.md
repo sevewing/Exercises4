@@ -1,3 +1,3 @@
 # Exercises4
 Java-Handin4
-Hello, This is ACE-YANGCE and Levis.
+Hello, This is ACE and Levis.
